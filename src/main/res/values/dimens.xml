@@ -1,0 +1,19 @@
+<resources>
+    <!-- detail -->
+    <dimen name="list_card_margin">4dp</dimen>
+    <dimen name="list_header_padding">12dp</dimen>
+    <dimen name="viewpager_overlap">78dp</dimen>
+
+    <dimen name="detail_card_margin">12dp</dimen>
+    <dimen name="detail_card_radius">6dp</dimen>
+
+    <dimen name="detail_title_text_size">30sp</dimen>
+    <dimen name="detail_subtitle_text_size">16sp</dimen>
+    <dimen name="detail_body_text_size">18sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

@@ -1,0 +1,71 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/theme_primary_500</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Bacon.List.Header" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:maxLines">2</item>
+
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail_Title" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+        <item name="android:layout_marginLeft">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:layout_marginStart">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:layout_marginTop">@dimen/detail_title_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/detail_metabar_title_bottom_padding</item>
+        <item name="android:textColor">@color/list_text_black</item>
+        <item name="android:textSize">@dimen/detail_title_text_size</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail.Subtitle" parent="Theme.Bacon.Detail_Title">
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:paddingBottom">@dimen/detail_subtitle_bottom_padding</item>
+        <item name="android:textColor">@color/body_byline</item>
+        <item name="android:textSize">@dimen/detail_subtitle_text_size</item>
+    </style>
+
+    <style name="Theme.Bacon.Body" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:layout_marginLeft">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:layout_marginStart">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:layout_marginRight">@dimen/detail_inner_horiz_margin</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:lineSpacingMultiplier">@fraction/detail_body_line_spacing_multiplier</item>
+        <item name="android:layout_marginBottom">@dimen/detail_body_bottom_margin</item>
+        <item name="android:textColorLink">@color/theme_accent</item>
+        <item name="android:textSize">@dimen/detail_body_text_size</item>
+    </style>
+
+    <style name="NavigationUp">
+        <item name="navigationIcon">@drawable/abc_ic_ab_back_mtrl_am_alpha</item>
+    </style>
+
+</resources>

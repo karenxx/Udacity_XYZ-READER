@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-92ddb3a7d87286c44c542d0aaf904de6470894b7.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6f5f04202ca5a5e193baee671f3cc158131614bf.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-e355bbadced1f984c56e18bc52c4f66da98d5d8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\WU\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\picasso-2.5.2-de2dff5087ea124d9ad057c7b9309b70b285c8ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\WU\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0-b80e8f85d05d131a7c63a2e187e100556bb35fef.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-a24409afa7d7c4dca6d93f11f5bea6298728fec0.jar" />
+    </item>
+    <item
+        jar="C:\Users\WU\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1ddf1a9129be37a2c13a46893f4370036f125547.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-520d34a5def0e859b9176c01d4ce58c6b9b0a19a.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-65edab8e71ce04726984b060b1b940fdeac28866.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-d7b0521045839f57e58067bdb1c4f92043cee878.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\classes-826580c48862652345b5e3d40720f49aeb6eb952.jar" />
+    </item>
+    <item
+        jar="C:\Users\WU\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2-2fdf048708dbe7e563c4008f009113a4a358d23a.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-406510f1a74083922b56a50779991d9e7e3d2c28.jar" />
+    </item>
+    <item
+        jar="C:\GUO\Material_Design\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\GUO\Material_Design\XYZReader\build\intermediates\pre-dexed\debug\volley-afaefd40f723e013bb983fc1be6a4f835f80b40a.jar" />
+    </item>
+
+</items>
