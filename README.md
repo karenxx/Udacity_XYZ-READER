@@ -1,4 +1,4 @@
-# Udacity_XYZ-READER - Udacity Android Developer Nanodegree project
+# XYZ-READER - Udacity Android Developer Nanodegree project
 Redesign sample app provided by Udacity to follow the Material Design guidelines and improve the UI based on user feedback.
 XYZ Reader is a mock RSS feed reader featuring banner photos and shocking headlines.
 
